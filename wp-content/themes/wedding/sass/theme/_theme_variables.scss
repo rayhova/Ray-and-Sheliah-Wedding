@@ -1,0 +1,20 @@
+// Use this file to overwrite the basic Bootstrap variables and add your own variables
+// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder. 
+// Just copy a variable from src/sass/bootstrap4/_variables.scss, paste it here and edit the value.
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel:400,700|Open+Sans:300,300i,400,700,700i|Rouge+Script');
+$primary: #dcd0ff; // Thats a sample how you could change a BootStrap variable.
+$secondary: #ccc;
+
+
+/*font*/
+$rouge-font: 'Rouge Script', cursive;
+$open-sans: 'Open Sans', sans-serif;
+$cinzel-font: 'Cinzel', serif;
+
+$primary-font: $open-sans; 
+$secondary-font: $cinzel-font; 
+
+$sans-serif-font: 'Open Sans', sans-serif;  
+$serif-font: 'Cinzel', serif; 
+$cursive-font: 'Rouge Script', cursive; 

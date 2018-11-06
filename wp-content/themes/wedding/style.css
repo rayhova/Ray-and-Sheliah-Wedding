@@ -1,0 +1,20 @@
+/*
+Theme Name: Wedding
+Theme URI: https://github.com/rayhova/Ray-and-Sheliah-Wedding
+Author: Raymond A Gotha II
+Author URI: http://raymondagothaii.com
+GitHub Theme URI: https://github.com/
+Description: Raymond and Sheliah wedding theme
+Version: 1.0.0
+Text Domain: understrap
+
+
+
+/*
+This file is just used to identify the theme in WordPress.
+The compiled CSS output can be found in /css/theme.css
+The SASS sources for it can be found in /sass/
+The dependencies can be found in /src/ after running "gulp copy-assets" terminal command
+
+...and now go out and play!
+*/
